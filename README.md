@@ -11,4 +11,5 @@ I'm like playing computer games, because this helping me.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> [danilanumber3@gmail.com]
   </a>
 </div>
-![photo_2026-01-17_19-26-56](https://github.com/user-attachments/assets/fba7d3a7-b56a-4002-82c6-d372e79067b0)
+
+![photo_2026-01-17_19-26-56](https://github.com/user-attachments/assets/d09753eb-53b2-4892-842e-2c147ce1febb)
