@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?font=oswald&color=8A2BE2&size=30&lines=Welcome+User!;This+is+my+GIT+page)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?font=oswald&color=8A2BE2&size=30&lines=Welcome+User!;This+is+my+GIT+page;Nice+to+meet+you!)](https://git.io/typing-svg)
 ## My bio
 My name is Danila, I'm studying for an information security degree. All sorts of nonsense will be written here, because I was given this as a homework assignment.
 
