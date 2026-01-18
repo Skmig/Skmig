@@ -8,6 +8,6 @@ I'm like playing computer games, because this helping me.
 ## Contacts
 <div id ="badges">
   <a href="danilanumber3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> [danilanumber3@gmail.com]{.red}
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> [danilanumber3@gmail.com]
   </a>
 </div>
