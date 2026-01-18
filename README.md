@@ -6,4 +6,8 @@ My name is Danila, I'm studying for an information security degree. All sorts of
 I'm like playing computer games, because this helping me.
 
 ## Contacts
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<div id ="badges">
+  <a href="danilanumber3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
