@@ -11,4 +11,4 @@ I'm like playing computer games, because this helping me.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?color=DC143C&size=10&lines=danilanumber3@gmail.com!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?color=DC143C&size=10&lines=danilanumber3@gmail.com!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
